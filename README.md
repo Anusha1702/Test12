@@ -1,4 +1,4 @@
-Test12
-======
-Task1
-test
+mkdir ~/MyProject
+cd ~/MyProject
+
+
